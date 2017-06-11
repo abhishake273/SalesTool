@@ -10,7 +10,7 @@ public class WelcomeController implements Controller {
 
 	@Override
 	public ModelAndView handleRequest(HttpServletRequest req, HttpServletResponse res) throws Exception {
-		
+		System.err.println("errr");
 		return new ModelAndView("welcome","msg","welcome to spring mvc");
 	}
 
