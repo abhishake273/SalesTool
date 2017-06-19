@@ -1,1 +1,1 @@
-<h1>Welcome to Spring Mvc</h1>
+<h1>Welcome to Spring Mvc App</h1>
